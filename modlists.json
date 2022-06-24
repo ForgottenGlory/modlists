@@ -8,31 +8,34 @@
       "github/ForgottenGlory"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "Unofficial",
       "Survival",
       "NSFW"
     ],
     "nsfw": true,
+    "utility_list": false,
     "image_contains_title": true,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://i.imgur.com/Ug09niO.png",
       "readme": "https://www.fgsmodlists.com/masterstroke/beforeyoustart/",
-      "download": "https://authored-files.wabbajack.org/Masterstroke.wabbajack_d39d0b04-3229-4c7d-9c56-45e2621c1781",
+      "download": "https://authored-files.wabbajack.org/Masterstroke.wabbajack_9512a798-1eee-4a55-adc1-a6c0eec4846f",
       "machineURL": "masterstroke",
       "discordURL": "https://discord.gg/NdmGpGzqg8"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "eOxJjTRkJVo=",
-      "Size": 159622106,
-      "NumberOfArchives": 889,
-      "SizeOfArchives": 99155834053,
-      "NumberOfInstalledFiles": 182882,
-      "SizeOfInstalledFiles": 211577071786
+      "Hash": "GDNQ/7F+hAs=",
+      "Size": 159605329,
+      "NumberOfArchives": 888,
+      "SizeOfArchives": 98824065037,
+      "NumberOfInstalledFiles": 182197,
+      "SizeOfInstalledFiles": 210439688102
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "RepositoryName": ""
   }
 ]
