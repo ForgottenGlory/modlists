@@ -35,5 +35,42 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2022-12-31T21:01:01.5259945Z",
     "repositoryName": ""
+  },
+  {
+    "title": "Living Skyrim",
+    "description": "ForgottenGlory's flagship modlist, Living Skyrim, is a full-featured overhaul of Skyrim SE with the intent to breathe life into the often empty areas of the world. NPCs, quests, new worldspaces, and interactive content are the focus of this modlist. All of this on top of a beautiful graphics package.",
+    "author": "ForgottenGlory",
+    "maintainers": [
+      "github/ForgottenGlory"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Official",
+      "Beta"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "image": "https://i.imgur.com/oRhxemh.png",
+      "readme": "https://www.fgsmodlists.com/livingskyrim4/beforeyoustart/",
+      "download": "https://authored-files.wabbajack.org/Living%20Skyrim%204.wabbajack_7405ea14-4b75-421a-b108-4830e3063010",
+      "machineURL": "living_skyrim",
+      "discordURL": "https://discord.gg/NdmGpGzqg8"
+    },
+    "download_metadata": {
+      "Hash": "TIEgcUmfOiI=",
+      "Size": 602436463,
+      "NumberOfArchives": 1331,
+      "SizeOfArchives": 125761171098,
+      "NumberOfInstalledFiles": 241208,
+      "SizeOfInstalledFiles": 236610408406
+    },
+    "version": "4.0.0.5",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2023-01-01T21:01:01.5259945Z",
+    "repositoryName": ""
   }
 ]
