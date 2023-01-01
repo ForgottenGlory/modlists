@@ -38,7 +38,7 @@
   },
   {
     "title": "Living Skyrim",
-    "description": "ForgottenGlory's flagship modlist, Living Skyrim, is a full-featured overhaul of Skyrim SE with the intent to breathe life into the often empty areas of the world. NPCs, quests, new worldspaces, and interactive content are the focus of this modlist. All of this on top of a beautiful graphics package.",
+    "description": "ForgottenGlory\u0027s flagship modlist, Living Skyrim, is a full-featured overhaul of Skyrim SE with the intent to breathe life into the often empty areas of the world. NPCs, quests, new worldspaces, and interactive content are the focus of this modlist. All of this on top of a beautiful graphics package.",
     "author": "ForgottenGlory",
     "maintainers": [
       "github/ForgottenGlory"
@@ -56,21 +56,21 @@
     "links": {
       "image": "https://i.imgur.com/MWjZgug.png",
       "readme": "https://www.fgsmodlists.com/livingskyrim4/beforeyoustart/",
-      "download": "https://authored-files.wabbajack.org/Living%20Skyrim%204.wabbajack_7405ea14-4b75-421a-b108-4830e3063010",
+      "download": "https://authored-files.wabbajack.org/Living Skyrim 4.wabbajack_0050b755-4fec-4553-8f4c-7bd3d7c34a81",
       "machineURL": "living_skyrim",
       "discordURL": "https://discord.gg/NdmGpGzqg8"
     },
     "download_metadata": {
-      "Hash": "TIEgcUmfOiI=",
-      "Size": 602436463,
-      "NumberOfArchives": 1331,
-      "SizeOfArchives": 125761171098,
-      "NumberOfInstalledFiles": 241208,
-      "SizeOfInstalledFiles": 236610408406
+      "Hash": "pdGgaQAMgHM=",
+      "Size": 588088937,
+      "NumberOfArchives": 1312,
+      "SizeOfArchives": 125749620219,
+      "NumberOfInstalledFiles": 241179,
+      "SizeOfInstalledFiles": 236548128468
     },
     "version": "4.0.0.5",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-01-01T21:01:01.5259945Z",
+    "dateUpdated": "2023-01-01T19:47:54.5371293Z",
     "repositoryName": ""
   }
 ]
