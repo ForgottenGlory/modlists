@@ -53,7 +53,7 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://i.imgur.com/MWjZgug.png",
       "readme": "https://www.fgsmodlists.com/livingskyrim4/beforeyoustart/",
