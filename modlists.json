@@ -19,21 +19,21 @@
     "links": {
       "image": "https://i.imgur.com/Ug09niO.png",
       "readme": "https://www.fgsmodlists.com/masterstroke/beforeyoustart/",
-      "download": "https://authored-files.wabbajack.org/Masterstroke.wabbajack_572139b8-8e2b-49d3-b30e-f85306352eca",
+      "download": "https://authored-files.wabbajack.org/Masterstroke.wabbajack_ed5b12d2-68ba-47b5-8fd6-f0a34717aa3d",
       "machineURL": "masterstroke",
       "discordURL": "https://discord.gg/NdmGpGzqg8"
     },
     "download_metadata": {
-      "Hash": "iaqrvXfzSBc=",
-      "Size": 1017880328,
+      "Hash": "aS0x94lzo8M=",
+      "Size": 1017931781,
       "NumberOfArchives": 1094,
-      "SizeOfArchives": 109060176084,
-      "NumberOfInstalledFiles": 216866,
-      "SizeOfInstalledFiles": 246323908956
+      "SizeOfArchives": 109060176448,
+      "NumberOfInstalledFiles": 216861,
+      "SizeOfInstalledFiles": 246323893156
     },
-    "version": "1.5.3.2",
+    "version": "1.5.3.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-01-16T18:07:49.8462307Z",
+    "dateUpdated": "2023-01-19T21:39:52.4013035Z",
     "repositoryName": ""
   },
   {
