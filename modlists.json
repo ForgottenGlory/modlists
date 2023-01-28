@@ -57,21 +57,21 @@
     "links": {
       "image": "https://i.imgur.com/MWjZgug.png",
       "readme": "https://www.fgsmodlists.com/livingskyrim4/beforeyoustart/",
-      "download": "https://authored-files.wabbajack.org/Living Skyrim 4.wabbajack_d87e9b23-6881-41a7-8c13-dd14306b8872",
+      "download": "https://authored-files.wabbajack.org/Living Skyrim 4.wabbajack_3eb903d5-7106-4e91-a3e9-a2141346033d",
       "machineURL": "living_skyrim",
       "discordURL": "https://discord.gg/NdmGpGzqg8"
     },
     "download_metadata": {
-      "Hash": "wriTEsxftaw=",
-      "Size": 593746206,
-      "NumberOfArchives": 1309,
-      "SizeOfArchives": 125624431997,
-      "NumberOfInstalledFiles": 240575,
-      "SizeOfInstalledFiles": 235812937688
+      "Hash": "h5WZTsNw2rA=",
+      "Size": 488732859,
+      "NumberOfArchives": 1310,
+      "SizeOfArchives": 123908231122,
+      "NumberOfInstalledFiles": 239878,
+      "SizeOfInstalledFiles": 235548487969
     },
-    "version": "4.0.0.6",
+    "version": "4.0.0.7",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-01-20T19:08:28.3389931Z",
+    "dateUpdated": "2023-01-28T03:35:45.3239983Z",
     "repositoryName": ""
   }
 ]
