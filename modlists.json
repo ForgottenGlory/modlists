@@ -35,5 +35,41 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2023-03-15T23:33:30.1356883Z",
     "repositoryName": ""
+  },
+  {
+    "title": "SSEE",
+    "description": "Skyrim Special Edition Essentials is a barebones, baseline modlist you can install and have a fully out-of-the-box working version of modded Skyrim. It contains all of the bug fixes, patches, modding tools, resources, and optimizations necessary to begin building a modlist on Skyrim Special Edition v1.5.97. It is an excellent starting point for any would-be modlist author.",
+    "author": "ForgottenGlory",
+    "maintainers": [
+      "github/ForgottenGlory"
+    ],
+    "game": "skyrimspecialedition",
+    "official": true,
+    "tags": [
+      "Utility"
+    ],
+    "nsfw": false,
+    "utility_list": true,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "image": "https://www.fgsmodlists.com/images/SSEELogo.png",
+      "readme": "https://www.fgsmodlists.com/docs/ssee/",
+      "download": "https://authored-files.wabbajack.org/SSEE.wabbajack_f55c4024-23d6-4ad1-8acb-a961ef76a6a4",
+      "machineURL": "sseessentials",
+      "discordURL": "https://discord.gg/NdmGpGzqg8"
+    },
+    "download_metadata": {
+      "Hash": "d6JU0T1VBdQ=",
+      "Size": 145395218,
+      "NumberOfArchives": 170,
+      "SizeOfArchives": 14936084090,
+      "NumberOfInstalledFiles": 22075,
+      "SizeOfInstalledFiles": 17249876480
+    },
+    "version": "1.0.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2023-03-15T23:33:30.1356883Z",
+    "repositoryName": ""
   }
 ]
