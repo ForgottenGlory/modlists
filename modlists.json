@@ -92,21 +92,21 @@
     "links": {
       "image": "https://www.fgsmodlists.com/images/SmallSilentSkyrimLogo.webp",
       "readme": "https://www.fgsmodlists.com/docs/silent-skyrim/",
-      "download": "https://authored-files.wabbajack.org/Silent%20Skyrim.wabbajack_944bbbdd-d568-4118-ae15-5c7ce096b89d",
+      "download": "https://authored-files.wabbajack.org/Silent Skyrim.wabbajack_3007e228-09ce-4252-b948-f9775ab87de4",
       "machineURL": "silentskyrim",
       "discordURL": "https://discord.gg/NdmGpGzqg8"
     },
     "download_metadata": {
-      "Hash": "kMeVudQoPBM=",
-      "Size": 328171775,
-      "NumberOfArchives": 459,
-      "SizeOfArchives": 55367955736,
-      "NumberOfInstalledFiles": 66211,
-      "SizeOfInstalledFiles": 81880983773
+      "Hash": "bmEJg7tjoUk=",
+      "Size": 352884936,
+      "NumberOfArchives": 460,
+      "SizeOfArchives": 59100680875,
+      "NumberOfInstalledFiles": 93113,
+      "SizeOfInstalledFiles": 91530297194
     },
-    "version": "0.0.6",
+    "version": "0.0.7",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-06-25T00:40:25.6057346Z",
+    "dateUpdated": "2023-07-24T15:37:50.0576755Z",
     "repositoryName": ""
   }
 ]
