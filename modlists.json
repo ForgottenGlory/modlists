@@ -4,7 +4,8 @@
     "description": "Masterstroke is a NSFW Skyrim SE list focused on fun and engaging content with an emphasis on customization. It includes survival mechanics, fun combat, and a healthy dose of sexy content. Combined with a performant and pretty graphics package and hand-picked NPC visuals, you get a list that will challenge and \u0022inspire\u0022 you.",
     "author": "ForgottenGlory",
     "maintainers": [
-      "github/ForgottenGlory"
+      "github/ForgottenGlory",
+      "github/Dace617"
     ],
     "game": "skyrimspecialedition",
     "official": true,
@@ -77,7 +78,8 @@
     "description": "Alduin has eaten the world while you slumbered. Now, you must rise and face the harsh, horrific world left behind. Undead, horrors, and dragons plus hardcore survival will push you to your limits.",
     "author": "ForgottenGlory",
     "maintainers": [
-      "github/ForgottenGlory"
+      "github/ForgottenGlory",
+      "github/Dace617"
     ],
     "game": "skyrimspecialedition",
     "official": false,
