@@ -60,21 +60,21 @@
     "links": {
       "image": "https://www.fgsmodlists.com/images/SSEELogo.png",
       "readme": "https://www.fgsmodlists.com/docs/ssee/",
-      "download": "https://authored-files.wabbajack.org/SSEE.wabbajack_c5c52083-9d77-405f-b620-e1568d3dd4bb",
+      "download": "https://authored-files.wabbajack.org/SSEE.wabbajack_8daeaf84-2f2e-4b67-827d-2b9ea4a3ea01",
       "machineURL": "sseessentials",
       "discordURL": "https://discord.gg/NdmGpGzqg8"
     },
     "download_metadata": {
-      "Hash": "7eUD6o0QRVQ=",
-      "Size": 147161953,
-      "NumberOfArchives": 170,
-      "SizeOfArchives": 14946685904,
-      "NumberOfInstalledFiles": 22376,
-      "SizeOfInstalledFiles": 17281708837
+      "Hash": "F8Lzdt6lna0=",
+      "Size": 369919719,
+      "NumberOfArchives": 177,
+      "SizeOfArchives": 16437751779,
+      "NumberOfInstalledFiles": 97359,
+      "SizeOfInstalledFiles": 14278359774
     },
-    "version": "1.1.0",
+    "version": "1.1.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-07-23T20:32:23.9644246Z",
+    "dateUpdated": "2024-01-09T14:37:17.3746171Z",
     "repositoryName": ""
   },
   {
