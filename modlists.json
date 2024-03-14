@@ -56,7 +56,7 @@
     "utility_list": true,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://www.fgsmodlists.com/images/SSEELogo.png",
       "readme": "https://www.fgsmodlists.com/docs/ssee/",
