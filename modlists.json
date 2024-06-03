@@ -40,44 +40,6 @@
     "repositoryName": ""
   },
   {
-    "title": "SSEE",
-    "description": "Skyrim Special Edition Essentials is a barebones, baseline modlist you can install and have a fully out-of-the-box working version of modded Skyrim. It contains all of the bug fixes, patches, modding tools, resources, and optimizations necessary to begin building a modlist on Skyrim Special Edition v1.5.97. It is an excellent starting point for any would-be modlist author.",
-    "author": "ForgottenGlory",
-    "maintainers": [
-      "github/ForgottenGlory",
-      "github/Dace617"
-    ],
-    "game": "skyrimspecialedition",
-    "official": true,
-    "tags": [
-      "Utility"
-    ],
-    "nsfw": false,
-    "utility_list": true,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "https://assets-global.website-files.com/65f0ea4c340181cb4b9c20f2/65f194f6b31e0313c7a36812_SSEELogo.png",
-      "readme": "https://www.fgsmodlists.com/docs/ssee/",
-      "download": "https://authored-files.wabbajack.org/SSEE.wabbajack_4ce91d93-f64d-4284-b4df-4245df983130",
-      "machineURL": "sseessentials",
-      "discordURL": "https://discord.gg/WKZgPuxvHS"
-    },
-    "download_metadata": {
-      "Hash": "2ZZ3h+i/6PY=",
-      "Size": 180894470,
-      "NumberOfArchives": 172,
-      "SizeOfArchives": 14702449720,
-      "NumberOfInstalledFiles": 21680,
-      "SizeOfInstalledFiles": 16675702318
-    },
-    "version": "1.2",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-03-19T04:21:08.5834611Z",
-    "repositoryName": ""
-  },
-  {
     "title": "Silent Skyrim",
     "description": "Alduin has eaten the world while you slumbered. Now, you must rise and face the harsh, horrific world left behind. Undead, horrors, and dragons plus hardcore survival will push you to your limits.",
     "author": "ForgottenGlory",
