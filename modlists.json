@@ -38,5 +38,46 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2024-06-01T15:34:08.0302883Z",
     "repositoryName": ""
+  },
+  {
+    "title": "Zenithar's Forge",
+    "description": "The ultimate roleplaying experience for Skyrim SE. Become a humble blacksmith, alchemist, or even a chef. Master the power of magic, or hone your skills and quest for adventure and loot. Survive the elements, master the combat, and forge your own path. The choice is yours.",
+    "author": "ForgottenGlory",
+    "maintainers": [
+      "github/ForgottenGlory"
+    ],
+    "game": "skyrimspecialedition",
+    "official": true,
+    "tags": [
+      "Survival",
+      "Immersive",
+      "Beta",
+      "Roleplay",
+      "Hardcore"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://i.imgur.com/plxo3QX.png",
+      "readme": "https://www.fgsmodlists.com/zenforge",
+      "download": "https://authored-files.wabbajack.org/Zenithars%20Forge.wabbajack_b64c8ed9-78b6-487a-b21d-84ddb9bff07d",
+      "machineURL": "zenforge",
+      "discordURL": "https://discord.gg/WKZgPuxvHS"
+    },
+    "download_metadata": {
+        "Hash": "7Zyb3v13Fdk=",
+        "Size": 278133350,
+        "NumberOfArchives": 814,
+        "SizeOfArchives": 96587834325,
+        "NumberOfInstalledFiles": 208772,
+        "SizeOfInstalledFiles": 221438475549
+    },
+    "version": "0.0.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-06-01T15:34:08.0302883Z",
+    "repositoryName": ""
   }
 ]
