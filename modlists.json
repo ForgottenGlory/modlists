@@ -40,7 +40,7 @@
     "repositoryName": ""
   },
   {
-    "title": "Zenithar's Forge",
+    "title": "Zenithar\u0027s Forge",
     "description": "The ultimate roleplaying experience for Skyrim SE. Become a humble blacksmith, alchemist, or even a chef. Master the power of magic, or hone your skills and quest for adventure and loot. Survive the elements, master the combat, and forge your own path. The choice is yours.",
     "author": "ForgottenGlory",
     "maintainers": [
@@ -63,21 +63,21 @@
     "links": {
       "image": "https://i.imgur.com/plxo3QX.png",
       "readme": "https://www.fgsmodlists.com/zenforge",
-      "download": "https://authored-files.wabbajack.org/Zenithars%20Forge.wabbajack_b64c8ed9-78b6-487a-b21d-84ddb9bff07d",
+      "download": "https://authored-files.wabbajack.org/Zenithar\u0027s Forge.wabbajack_a4e3a3e6-0875-4751-a2f2-f1a127fec001",
       "machineURL": "zenforge",
       "discordURL": "https://discord.gg/WKZgPuxvHS"
     },
     "download_metadata": {
-        "Hash": "7Zyb3v13Fdk=",
-        "Size": 278133350,
-        "NumberOfArchives": 814,
-        "SizeOfArchives": 96587834325,
-        "NumberOfInstalledFiles": 208772,
-        "SizeOfInstalledFiles": 221438475549
+      "Hash": "jXLjbcSECtM=",
+      "Size": 281670104,
+      "NumberOfArchives": 816,
+      "SizeOfArchives": 96431046837,
+      "NumberOfInstalledFiles": 208803,
+      "SizeOfInstalledFiles": 221533629050
     },
-    "version": "0.0.1",
+    "version": "0.0.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-06-01T15:34:08.0302883Z",
+    "dateUpdated": "2024-06-08T16:31:36.1856809Z",
     "repositoryName": ""
   }
 ]
