@@ -63,21 +63,21 @@
     "links": {
       "image": "https://i.imgur.com/plxo3QX.png",
       "readme": "https://www.fgsmodlists.com/zenforge",
-      "download": "https://authored-files.wabbajack.org/Zenithar\u0027s Forge.wabbajack_a4e3a3e6-0875-4751-a2f2-f1a127fec001",
+      "download": "https://authored-files.wabbajack.org/Zenithar\u0027s Forge.wabbajack_7f71ec4f-57de-4af4-9a89-7be05a6152b0",
       "machineURL": "zenforge",
       "discordURL": "https://discord.gg/WKZgPuxvHS"
     },
     "download_metadata": {
-      "Hash": "jXLjbcSECtM=",
-      "Size": 281670104,
-      "NumberOfArchives": 816,
-      "SizeOfArchives": 96431046837,
-      "NumberOfInstalledFiles": 208803,
-      "SizeOfInstalledFiles": 221533629050
+      "Hash": "PUomLcSPIIE=",
+      "Size": 277813950,
+      "NumberOfArchives": 820,
+      "SizeOfArchives": 96708467959,
+      "NumberOfInstalledFiles": 207596,
+      "SizeOfInstalledFiles": 222525127564
     },
-    "version": "0.0.2",
+    "version": "0.0.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-06-08T16:31:36.1856809Z",
+    "dateUpdated": "2024-10-03T17:37:11.9010969Z",
     "repositoryName": ""
   }
 ]
