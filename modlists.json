@@ -24,22 +24,23 @@
     "links": {
       "image": "https://i.imgur.com/Ug09niO.png",
       "readme": "https://www.fgsmodlists.com/docs/masterstroke/",
-      "download": "https://authored-files.wabbajack.org/Masterstroke%20Beta%202%20Hotfix%207.wabbajack_90dd5b35-40cb-4957-9384-a40a3cf7c6bc",
+      "download": "https://authored-files.wabbajack.org/Masterstroke_2.2.0.7_Beta2_Hotfix7.wabbajack_c10e1c20-4e6f-47f3-9992-fb9a06a71aee",
       "machineURL": "masterstroke",
-      "discordURL": "https://discord.gg/WKZgPuxvHS"
+      "discordURL": "https://discord.gg/WKZgPuxvHS",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "wp/c/fSNDkg=",
-      "Size": 1098330909,
+      "Hash": "uPLjRTQAaQk=",
+      "Size": 1098330776,
       "NumberOfArchives": 1359,
-      "SizeOfArchives": 161972360442,
+      "SizeOfArchives": 161972362890,
       "NumberOfInstalledFiles": 315877,
-      "SizeOfInstalledFiles": 355961707556,
-      "TotalSize": 517934067998
+      "SizeOfInstalledFiles": 355961707558,
+      "TotalSize": 517934070448
     },
     "version": "2.2.0.7",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-06-28T00:00:00Z",
+    "dateUpdated": "2025-06-29T20:20:48.8532506Z",
     "repositoryName": ""
   },
   {
@@ -68,7 +69,8 @@
       "readme": "https://www.fgsmodlists.com/zenforge",
       "download": "https://authored-files.wabbajack.org/Zenithar\u0027s Forge.wabbajack_91a2ad5c-d033-4ceb-b84a-d6336726c615",
       "machineURL": "zenforge",
-      "discordURL": "https://discord.gg/WKZgPuxvHS"
+      "discordURL": "https://discord.gg/WKZgPuxvHS",
+      "websiteURL": ""
     },
     "download_metadata": {
       "Hash": "07qM2yxCLAg=",
@@ -76,7 +78,8 @@
       "NumberOfArchives": 820,
       "SizeOfArchives": 96708467959,
       "NumberOfInstalledFiles": 207596,
-      "SizeOfInstalledFiles": 222525126460
+      "SizeOfInstalledFiles": 222525126460,
+      "TotalSize": 319233594419
     },
     "version": "0.0.3",
     "dateCreated": "1970-01-01T00:00:00Z",
