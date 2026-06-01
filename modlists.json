@@ -24,24 +24,24 @@
     "links": {
       "image": "https://i.imgur.com/Ug09niO.png",
       "readme": "https://www.fgsmodlists.com/docs/masterstroke/",
-      "download": "https://authored-files.wabbajack.org/Masterstroke_2.2.3_Beta2_Update2_HotFix3.wabbajack_106d44e4-8f95-41ae-9a91-26bde336a062",
+      "download": "https://authored-files.wabbajack.org/Masterstroke.wabbajack_d2ba7520-c812-45c8-8ffd-ddc5f343f7a0",
       "machineURL": "masterstroke",
       "discordURL": "https://discord.gg/WKZgPuxvHS",
       "websiteURL": "https://www.fgsmodlists.com/",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "jj5+BbKMqQ8=",
-      "Size": 2188988677,
+      "Hash": "5tnQF4Pdg2k=",
+      "Size": 2188521004,
       "NumberOfArchives": 1353,
-      "SizeOfArchives": 153683181638,
-      "NumberOfInstalledFiles": 307052,
-      "SizeOfInstalledFiles": 362127115349,
-      "TotalSize": 515810296987
+      "SizeOfArchives": 153683183863,
+      "NumberOfInstalledFiles": 307054,
+      "SizeOfInstalledFiles": 362127143492,
+      "TotalSize": 515810327355
     },
-    "version": "2.2.3.0",
+    "version": "2.2.4.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-05-04T03:05:54.0611462Z",
+    "dateUpdated": "2026-06-01T21:04:56.7545918Z",
     "repositoryName": ""
   },
   {
